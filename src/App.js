@@ -6,14 +6,8 @@ function App() {
     <Router>
       <Routes>
         <Route/>
-      
-    
-      
       </Routes>
     </Router>
-    
-    
-    
   );
 }
 
